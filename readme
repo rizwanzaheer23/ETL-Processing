@@ -1,6 +1,6 @@
 First install Typescript globally at your maching using following command:
-```npm install -g typescript```
+`npm install -g typescript`
 
  and then run 
- ```npm start``` 
+ `npm start`
  to start application.
