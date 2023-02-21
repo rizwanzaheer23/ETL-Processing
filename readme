@@ -1,4 +1,6 @@
-First Install Typescript globally at your maching using following command
- "npm install -g typescript"
+First install Typescript globally at your maching using following command:
+```npm install -g typescript```
 
- and then run "npm start" to start application.
+ and then run 
+ ```npm start``` 
+ to start application.
